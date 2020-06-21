@@ -1,2 +1,5 @@
-# ipython_extensions
-These are my IPython Extensions, feel free to borrow them.
+# Carlos' IPython Extensions
+***
+## Table of Contents
+
+[IPythonClipboard](https://github.com/CarlosGTrejo/ipython_extensions/)
