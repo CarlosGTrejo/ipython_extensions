@@ -1,5 +1,5 @@
 Table of Contents
-=================
+==================
 
 * `About`_
 * `Installation`_
@@ -66,7 +66,7 @@ Usage
     In [2]: %clip _1 # This will copy the output of line 1
     In [2]: %clip _i1  # this will copy the input of line 1
 
-You can also use IPython chache variables (ie. ``_ __ ___ _i _ii _iii``)    
+You can also use IPython cache variables (ie. ``_ __ ___ _i _ii _iii``)
 
 The docstring of ``%clip`` is:
 
@@ -132,4 +132,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 License
 =======
-`MIT <https://choosealicense.com/licenses/mit/>
+`MIT <https://choosealicense.com/licenses/mit/>`_
