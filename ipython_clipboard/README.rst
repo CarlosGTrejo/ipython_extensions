@@ -32,7 +32,11 @@ The IPythonClipboard extension is a standard Python package that can be installe
 
     pip install IPythonClipboard
 
-After the extension has been installed you can use it in your IPython shell by doing ``%load_ext IPythonClipboard``
+After the extension has been installed you can use it in your IPython shell by doing:
+
+::
+
+    In [1]: %load_ext ipython_clipboard
 
 If you find yourself using this extension regularly, then you can place it in your IPython profile so that it's always ready to use when you open IPython.
 
@@ -133,3 +137,9 @@ For major changes, please open an issue first to discuss what you would like to 
 License
 =======
 `MIT <https://choosealicense.com/licenses/mit/>`_
+
+-------------------------------------------------------------------
+
+Thanks
+======
+`Greg Toombs <https://github.com/reinderien>`_ for reviewing and helping me improve IPythonClipboard's line number functionality
